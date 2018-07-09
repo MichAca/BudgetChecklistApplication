@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Budget Checklist Application</string>
+    <string name="input">item</string>
+    <string name="amount">0.00</string>
+</resources>
