@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "135552862826",
+    "firebase_url": "https://budgetapp-be81e.firebaseio.com",
+    "project_id": "budgetapp-be81e",
+    "storage_bucket": "budgetapp-be81e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135552862826:android:8cdb42a585695a5a",
+        "android_client_info": {
+          "package_name": "com.example.michelleaca.budgetchecklistapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135552862826-gla8s2eqgmp4ar3c6u35sof4jnjb74q0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQrW3zj9QbC--oAR1LMdWKEk8h5Xk2j_k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
